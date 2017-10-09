@@ -10,7 +10,7 @@
  ```
 2. Tennis
   - Tennis = main for read file and calculate.
-  - tennis.txt.txt = text file for test.
+  - tennis.txt = text file for test.
 ```
 
 
