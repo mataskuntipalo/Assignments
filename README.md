@@ -14,5 +14,9 @@
 ```
 
 
-
+ ##How to compile and run 
+ - Install Eclipse.
+ - Create new project.
+ - Insert Tennis , RomanCalculator , Formant in to src folder.
+ - Insert roman.txt and tennis.txt in to your folder project. 
   
